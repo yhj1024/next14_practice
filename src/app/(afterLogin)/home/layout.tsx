@@ -1,5 +1,5 @@
 export default async function HomeLayout({children}) {
   return (
-    <div>{children}</div>
+    <div>홈레이아웃{children}</div>
   )
 }
