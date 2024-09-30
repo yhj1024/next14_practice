@@ -1,6 +1,6 @@
 import Image from 'next/Image';
-import styles from './page.module.css'
-import zLogo from '../../public/zlogo.png'
+import styles from '../page.module.css'
+import zLogo from '../../../public/zlogo.png'
 import Link from "next/link";
 
 export default function Home() {
